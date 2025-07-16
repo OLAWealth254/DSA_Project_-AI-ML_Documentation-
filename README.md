@@ -64,15 +64,14 @@ python -m venv venv
 source venv/bin/activate  
 On Windows: venv\Scripts\activate
 
-4. Install dependencies
-pip install -r requirements.txt
+3 Install dependencies
+* pip install -r requirements.txt
 
- 5. Run the app
+4.Run the app
   cd app
 python app.py
 
-
-Visit: http://127.0.0.1:5000
+5.Visit: http://127.0.0.1:5000
 Input patient data to get real-time diabetes risk prediction.
 Input patient data to get real-time diabetes risk prediction.
 
@@ -88,5 +87,6 @@ Input patient data to get real-time diabetes risk prediction.
 * openpyxl
 
 
+###
 ### Author
  Olarewaju Gift 
