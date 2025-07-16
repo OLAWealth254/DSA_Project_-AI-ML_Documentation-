@@ -79,13 +79,13 @@ Input patient data to get real-time diabetes risk prediction.
 
 ### Requirements.txt
 
-flask
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-openpyxl
+* flask
+* pandas
+* numpy
+* scikit-learn
+* matplotlib
+* seaborn
+* openpyxl
 
 
 ### Author
