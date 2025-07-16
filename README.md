@@ -77,5 +77,16 @@ Input patient data to get real-time diabetes risk prediction.
 Input patient data to get real-time diabetes risk prediction.
 
 
-Author
+### Requirements.txt
+
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+
+
+### Author
  Olarewaju Gift 
