@@ -3,7 +3,9 @@
 
 ## Diabetes Risk Predictor
 
-A machine learning web application built to analyze and predict diabetes risk using real-world epidemiological data from a community health profile.
+The notebook analyzes a dataset of individual from community A to uncover key factors contributing to diabetes. Exploratory Data Analysis and Machine Learning was used to indentify patterns and derive insights.
+
+A machine learning web application was built to analyze and predict diabetes risk using real-world epidemiological data from community A health profile.
 
 
 
@@ -21,7 +23,7 @@ A machine learning web application built to analyze and predict diabetes risk us
 *Filename: `Diabetics Profile.xlsx`  
 *Source: Community A Epidemiological Review(kaggle) 
 
-*Features: Includes patient profiles, blood sugar readings, and potential risk indicators.
+*Features: Includes patient profiles, blood sugar readings, and potential risk indicators(Age,Pregnancies,Glucose,BloodPressure (mg/dL) SkinThickness,Insulin,BMI	DiabetesPedigreeFunction)
 
 
 
@@ -32,7 +34,6 @@ A machine learning web application built to analyze and predict diabetes risk us
 - HTML/CSS (Frontend)
 - Jupyter Notebook (EDA and Modeling)
 - Excel (Data format)
-
 
 
 ### ML Model
@@ -53,7 +54,6 @@ A supervised classification model (e.g., Logistic Regression, Random Forest) tra
 
 
 ### Instructions
-
 
 1. Clone the repository
 git clone https://github.com/OLAWealth/diabetes-risk-predictor.git
@@ -87,6 +87,12 @@ Input patient data to get real-time diabetes risk prediction.
 * openpyxl
 
 
-###
+### Insights and Recommendations 
+* High glucose,BMI,and Age are leading indicators of diabetes risk in this community.
+* Individuals over 45 with high BMI should be priotized for intervention.
+* Skin thickness and insulin levels shows weaker predictive power here.
+* Recommend routine screening and lifestyle counseling for high-risk groups.
+
+  
 ### Author
  Olarewaju Gift 
