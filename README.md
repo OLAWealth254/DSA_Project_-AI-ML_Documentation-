@@ -95,4 +95,4 @@ Input patient data to get real-time diabetes risk prediction.
 
   
 ### Author
- Olarewaju Gift 
+ Olarewaju.O.Gift 
